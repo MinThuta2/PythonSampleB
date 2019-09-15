@@ -1,0 +1,6 @@
+pip --version  -----Version Check
+pip install    -----Pip installation
+python -m pip install --upgrade pip  -------pip upgrade
+--user  -----User Permission
+pip install numpy
+pip install -r requirement.txt
